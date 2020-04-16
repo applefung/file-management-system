@@ -3,9 +3,9 @@ Language： Java<br/>
 Development Tool: Eclipse<br/>
 <br/>
 **Funtions:**<br/>
-1. Creation of file and directory (At most 8 objects(files and directories) in one directory)<br/>
-2. Edition of file (text only)
-3. Deletion of file and directory<br/>
+1. Create file and directory (At most 8 objects(files and directories) in one directory)<br/>
+2. Edit file (text only)
+3. Delete file and directory<br/>
 4. Access control: read only / read write<br/>
 5. Attributes display<br/>
 6. Disk Usage display<br/>
