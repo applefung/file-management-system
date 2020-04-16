@@ -1,5 +1,5 @@
 # File-Management-System
-Language： Java<br/>
+Language: Java<br/>
 Development Tool: Eclipse<br/>
 <br/>
 **Funtions:**<br/>
