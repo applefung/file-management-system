@@ -10,14 +10,14 @@ Development Tool: Eclipse<br/>
 5. Attributes display<br/>
 6. Disk Usage display<br/>
 <br/>
-__Home__<br/>
+Home<br/>
 <img width="960" alt="home" src="https://user-images.githubusercontent.com/48202387/79447711-d7697200-8012-11ea-9475-94efe01e6a65.PNG"><br/>
-__File tyle:__<br/>
+File tyle:<br/>
 1. file<br/>
 2. folder<br/>
 The pictures below displays the file icon and folder icon where "a" is a file and "b" is a folder<br/>
 <img width="960" alt="file-type" src="https://user-images.githubusercontent.com/48202387/79450806-033b2680-8018-11ea-88a4-4a2eb8e1f017.PNG"><br/>
-__Naming:__<br/>
+Naming:<br/>
 1. The name cannot be empty<br/>
 2. The length of name is at most 3 characters<br/>
 3. The name cannot contain "$", "/" or "."<br/>
