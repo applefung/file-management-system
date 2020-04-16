@@ -21,19 +21,16 @@ Naming:<br/>
 1. The name cannot be empty<br/>
 2. The length of name is at most 3 characters<br/>
 3. The name cannot contain "$", "/" or "."<br/>
-<img width="960" alt="naming-" src="https://user-images.githubusercontent.com/48202387/79451525-43e76f80-8019-11ea-965c-3c181fbcfe9d.PNG">
-<br/>
-
+<img width="960" alt="naming-" src="https://user-images.githubusercontent.com/48202387/79451525-43e76f80-8019-11ea-965c-3c181fbcfe9d.PNG"><br/>
+Subdirectory<br/>
+<img width="960" alt="directory" src="https://user-images.githubusercontent.com/48202387/79451237-c885be00-8018-11ea-9565-66e05f658872.PNG"><br/>
+<img width="960" alt="subdirectory" src="https://user-images.githubusercontent.com/48202387/79451468-316d3600-8019-11ea-8d85-4d518a931918.PNG"><br/>
+<img width="960" alt="subdirectory-usage" src="https://user-images.githubusercontent.com/48202387/79451423-1ef2fc80-8019-11ea-9d47-5e369a7b36f5.PNG"><br/><br/>
 **Functions:**<br>
 **Function 1: Create file and directory**<br/>
 1.1 Right click to create a new file or new folder<br/>
 1.2 Enter the file name or folder name<br/>
-<img width="960" alt="name" src="https://user-images.githubusercontent.com/48202387/79449305-8dce5680-8015-11ea-9d4c-037366a07cd8.PNG"><br/>
-1.3 Double click to open a directory<br/>
-<img width="960" alt="directory" src="https://user-images.githubusercontent.com/48202387/79451237-c885be00-8018-11ea-9565-66e05f658872.PNG"><br/>
-subdirectory<br/>
-<img width="960" alt="subdirectory" src="https://user-images.githubusercontent.com/48202387/79451468-316d3600-8019-11ea-8d85-4d518a931918.PNG"><br/>
-<img width="960" alt="subdirectory-usage" src="https://user-images.githubusercontent.com/48202387/79451423-1ef2fc80-8019-11ea-9d47-5e369a7b36f5.PNG"><br/><br>
+<img width="960" alt="name" src="https://user-images.githubusercontent.com/48202387/79449305-8dce5680-8015-11ea-9d4c-037366a07cd8.PNG"><br/><br>
 **Function 2: Edit file (text only)**<br/>
 2.1 Double click the file icon to edit the file or right click the file icon to edit the file<br/>
 <img width="960" alt="edit" src="https://user-images.githubusercontent.com/48202387/79450105-fec23e00-8016-11ea-884d-0d5d22037724.PNG"><br/>
