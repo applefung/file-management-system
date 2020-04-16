@@ -87,7 +87,7 @@ public class UIService {
                 });
                 
                 
-                MenuItem updateItem=new MenuItem("Accessibility");
+                MenuItem updateItem=new MenuItem("Access");
                 rootRightMenu.getItems().add(updateItem);
                 updateItem.setOnAction(e->{
                     AttrEdit.show(myFile);
