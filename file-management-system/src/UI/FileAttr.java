@@ -30,7 +30,7 @@ public class FileAttr {
         HBox name=new HBox(new Node[]{nameTitle,fileName});
 
         Label sizeTitle=new Label("Size: ");
-        Label fileSize=new Label(myFile.getLength()+" bytes");
+        Label fileSize=new Label(myFile.getLength()+" blocks");
         HBox size=new HBox(new Node[]{sizeTitle,fileSize});
 
 
