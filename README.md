@@ -2,7 +2,7 @@
 Language: Java<br/>
 Development Tool: Eclipse<br/>
 <br/>
-**Funtions:**<br/>
+**Functions:**<br/>
 1. Create file and directory (At most 8 objects(files and directories) in one directory)<br/>
 2. Edit file (text only)
 3. Delete file and directory<br/>
