@@ -57,7 +57,7 @@ public class UIService {
         });
 
         VBox theItemPane = new VBox(new Node[]{theItem});
-        //Four functions: Edit, Delete, Accessibility, Attributes
+        //Four functions: Edit, Delete, Access, Attributes
         theItemPane.addEventHandler(MouseEvent.MOUSE_CLICKED,  (MouseEvent  me) ->  {
             ContextMenu rootRightMenu = new ContextMenu();
             if(myFile.getAttr()==FileAttr.FILE)
